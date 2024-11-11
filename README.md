@@ -1,10 +1,10 @@
 # Overview
 
-This project reproduces a bug with the Fantasy Statblock plugin when using inherited inline statblocks.
+This project reproduces a bug with the [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks) plugin when using inherited inline statblocks.
 
 # Setup
 
-Install & enable the Fantasy Statblocks plugin and enable the setting "Automatically Parse Frontmatter for Creatures".
+Install & enable the [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks) plugin and enable the setting "Automatically Parse Frontmatter for Creatures".
 
 # Issue
 
